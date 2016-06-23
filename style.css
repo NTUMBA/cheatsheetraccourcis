@@ -1,10 +1,11 @@
 body{
   background-color: aqua; /*Le champ d'application et entre guillemet variable: sa valeur*/
+  text-align: center;
 }
 table{
   border-collapse: collapse;
   text-align: center;
-  margin: 20px;
+  margin: 20px;width: 70%;
 }
 td{
   border-collapse: collapse;
