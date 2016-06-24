@@ -13,13 +13,13 @@ td{
 }
 h1{
   background-color: orange; text-align: center;
-  border: 1px solid black; border-radius: 8px;
+  border: 2px dotted red; border-radius: 8px;
   width: 80 %; padding: 10px; margin: 20px;margin-bottom: 50px;
 }
 .rac{
   text-align: center;
 }
 h2{
-  background-color: lime; border: 2px solid black; border-radius: 15px;
+  background-color: lime; border: 2px dotted gold; border-radius: 15px;
   color: blue;width:60%; margin: auto; margin-top: 50px; margin-bottom: 20px;
 }
