@@ -12,6 +12,7 @@ td{
   border: 2px solid black;
 }
 h1{
+font-family: serif;
   background-color: orange; text-align: center;
   border: 2px dotted red; border-radius: 8px;
   width: 80 %; padding: 10px; margin: 20px;margin-bottom: 50px;
@@ -22,7 +23,4 @@ h1{
 h2{
   background-color: lime; border: 2px dotted gold; border-radius: 15px;
   color: blue;width:60%; margin: auto; margin-top: 50px; margin-bottom: 20px;
-}
-.biblio{
-  text-align: left;
 }
