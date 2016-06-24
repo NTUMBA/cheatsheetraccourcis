@@ -21,6 +21,7 @@ font-family: serif;
   text-align: center;
 }
 h2{
+  font-family: inherit;
   background-color: lime; border: 2px dotted gold; border-radius: 15px;
   color: blue;width:60%; margin: auto; margin-top: 50px; margin-bottom: 20px;
 }
