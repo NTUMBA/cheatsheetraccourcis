@@ -29,6 +29,10 @@ h2{
 .intro img{
   float: left;
 }
+img{
+  width: 150px;
+  
+}
 .biblio{
   text-align: left;
 }
