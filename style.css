@@ -5,7 +5,8 @@ body{
 table{
   border-collapse: collapse;
   text-align: center;
-  margin-left:150px;width: 70%;
+  margin: auto;
+  width: 70%;
 }
 td{
   border-collapse: collapse;
@@ -31,8 +32,13 @@ h2{
 }
 img{
   width: 150px;
-  
+
 }
 .biblio{
   text-align: left;
+}
+@media screen and (max-width: 884px) {
+            img {
+              display: none;
+            }
 }
