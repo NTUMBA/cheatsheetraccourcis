@@ -1,5 +1,5 @@
 body{
-  background-color:#777799; /*Le champ d'application et entre guillemet variable: sa valeur*/
+  background-color:#777799; /*Le champ d'application: toute la page*/
   text-align: center;
 }
 table{
@@ -7,11 +7,11 @@ table{
   text-align: center;
   margin: auto;
   width: 70%;
-}
+}/*Pour une cohérence des tableaux, tous auront ce style*/
 td{
   border-collapse: collapse;
   border: 2px solid black;
-}
+}/*Fusion des bords des cellules*/
 h1{
 font-family: serif;
   background-color: orange; text-align: center;
@@ -26,7 +26,6 @@ h2{
   background-color: lime; border: 2px dotted gold; border-radius: 15px;
   color: blue;width:60%; margin: auto; margin-top: 50px; margin-bottom: 20px;
 }
-
 .intro img{
   float: left;
 }
